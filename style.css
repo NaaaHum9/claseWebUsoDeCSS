@@ -1,0 +1,38 @@
+body{
+    background-color: #cccc;
+    /*font-family: monospace;*/
+    font-family: Arial;
+    color: red;
+}
+
+.headerPrincipal{
+    background-color: beige;
+}
+
+.titleInHeader{
+    text-align: center;
+    color: blueviolet;
+}
+
+.divInHeader{
+    text-align: center;
+}
+
+.mainPrincipal{
+    background-color: beige;
+}
+
+#product{
+    color: blue;
+    background-color: darkgray;
+    text-align: center;
+}
+
+#product .paragraphInProduct em{
+    color: red;
+    font-style: italic;
+}
+
+.footerPrincipal{
+    background-color: beige;
+}
